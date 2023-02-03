@@ -1,0 +1,1 @@
+# automate-cleaning-script-example
